@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 
-
+//
 abstract class Shape //van een abstracte class kan je geen object maken dus handig voor classes met namen zoals 'Shape', 'Animal' etc
 {
     public abstract double CalculateArea(); //geeft waarde terug als double
